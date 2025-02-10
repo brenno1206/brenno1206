@@ -1,7 +1,7 @@
 ## <div align="center"> Olá! Eu sou o Brenno `@brenno1206`, seja bem vindo ao meu `GitHub Profile`. </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&separator=%3D&lines=%23include+%3Cstdio.h%3E%3Dint+main(void)+%7B%3Dprintf(%22%25s%5Cn%22%2C+%22Hello+World!%22);%3Dreturn+0;+%3D%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3658F7&width=435&separator=%3C&lines=printf(%22%25s%5Cn%22%2C+%22Hello+World%22);)](https://git.io/typing-svg)
 
 ## Sobre mim
 
