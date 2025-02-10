@@ -9,14 +9,15 @@
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/brenno1206) | [Email](mailto:brenno1206@gmail.com)
 
 
-## Tecnologias e Ferramentas
+## 💻 Tecnologias e Ferramentas
 
-- Linguagens de Programação: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) ![C](https://img.shields.io/badge/-Java-black?style=flat-square&logo=c)
+- Linguagens de Programação: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) ![C](https://img.shields.io/badge/-c-black?style=flat-square&logo=c)
 - Frontend: ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 - Banco de Dados: ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) 
 - Ferramentas de Desenvolvimento: ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-- Outros: ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux) ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws) 
-## Projetos
+
+
+## 📂 Projetos
 
 Aqui estão alguns dos projetos em que estou trabalhando ou já trabalhei:
 
@@ -24,12 +25,16 @@ Aqui estão alguns dos projetos em que estou trabalhando ou já trabalhei:
 - [Projeto 2](https://github.com/brenno1206/projeto2): Descrição breve do projeto 2.
 - [Projeto 3](https://github.com/brenno1206/projeto3): Descrição breve do projeto 3.
 
-## Estatísticas do GitHub
 
-![Estatísticas do GitHub de Brenno](https://github-readme-stats.vercel.app/api?username=brenno1206&show_icons=true&theme=radical)
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenno1206&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200" alt="readme-typing-svg">
+## 📊 Estatísticas
 
-## Contato
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brenno1206&show_icons=true&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenno1206&layout=compact&theme=radical">
+</p>
+
+
+## ☎️ Contato
 
 Se você quiser entrar em contato, sinta-se à vontade para me enviar uma mensagem!
 
