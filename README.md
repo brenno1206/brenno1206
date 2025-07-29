@@ -1,4 +1,4 @@
-## <div align="center"> Olá! Eu sou `@brenno1206`, seja bem-vindo ao meu `GitHub Profile`. </div>
+## <div align="center"> Hello! I am`@brenno1206`, welcome to my `GitHub Profile`. </div>
 
 <p align="center" style="display: flex; gap: 40px; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=brenno1206&show_icons=true&theme=radical" height="180">
