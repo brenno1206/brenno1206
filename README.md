@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,py)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=---------)](https://skillicons.dev)
 
 </div>
 
