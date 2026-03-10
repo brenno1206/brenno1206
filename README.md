@@ -70,9 +70,6 @@ Estudante de Ciência da Computação com interesse em resolução de problemas 
 
 </div>
   <img src="https://streak-stats.demolab.com?user=brenno1206&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-<div align="left">  
   <img width="49%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=brenno1206&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=radical" alt="Fernanda github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=brenno1206&layout=compact&hide_border=true&bg_color=0d1117&theme=dracula" />
 </div>
