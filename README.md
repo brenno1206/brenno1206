@@ -13,7 +13,7 @@
 Estudante de Ciência da Computação com interesse em resolução de problemas lógicos, desenvolvimento de software e pela construção de soluções eficientes e inovadoras.
 
 - 🎓 Graduando em Ciência da Computação na UVV (5º período)
-- 🔬 Pesquisador de Iniciação Científica e autor do artigo *"SQL Trail - Uma Abordagem Prática para Aprendizado de SQL"*
+- 🔬 Bolsista de Iniciação Científica
 - 💡 Foco em aplicar conhecimento acadêmico em aplicações reais
 
 ---
