@@ -2,6 +2,9 @@
 <h1 align="center">Olá! Eu sou o Brenno 💻</h1>
 
 ###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=brenno1206&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
 
 # Sobre mim
 
@@ -10,6 +13,12 @@ Estudante de Ciência da Computação com interesse em resolução de problemas 
 - 🎓 Graduando em Ciência da Computação na UVV (5º período)
 - 🔬 Bolsista de Iniciação Científica
 - 💡 Foco em aplicar conhecimento acadêmico em aplicações reais
+
+
+<div align="center">
+  <img height="220" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=brenno1206&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=radical" alt="Brenno github stats" />
+  <img height="220" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=brenno1206&layout=compact&hide_border=true&bg_color=0d1117&theme=dracula" />
+</div>
 
 
 # Tecnologias & Ferramentas
@@ -37,13 +46,6 @@ Estudante de Ciência da Computação com interesse em resolução de problemas 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgres"/>
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux"/>
-</div>
-
-
-# Dados do GitHub
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=brenno1206&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph" />&nbsp;<img height="130" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=brenno1206&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=radical" alt="Brenno github stats" />&nbsp;<img height="130" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=brenno1206&layout=compact&hide_border=true&bg_color=0d1117&theme=dracula" />
 </div>
 
 
