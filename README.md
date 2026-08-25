@@ -47,7 +47,7 @@ Estudante de Ciência da Computação com interesse em resolução de problemas 
   <a href="mailto:brenno.breda@icloud.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=c14438&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
   </a>
-  <a href="https://github.com/brenno1206" target="_blank">
+  <!-- <a href="https://github.com/brenno1206" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
-  </a>
+  </a> -->
 </div>
