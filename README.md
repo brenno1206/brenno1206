@@ -1,24 +1,22 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=100&color=0b5394&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0)
 <h1 align="center">Olá! Eu sou o Brenno 💻</h1>
 
-###
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=brenno1206&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div> -->
+
+<div align="center">
+  <img height="220" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=brenno1206&show_icons=true&count_private=true&hide_border=true&theme=default" alt="Brenno github stats" />
+  <img height="220" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=brenno1206&layout=compact&hide_border=true&theme=default" />
 </div>
 
 # Sobre mim
 
 Estudante de Ciência da Computação com interesse em resolução de problemas lógicos, desenvolvimento de software e pela construção de soluções eficientes e inovadoras.
 
-- 🎓 Graduando em Ciência da Computação na UVV (5º período)
+- 🎓 Graduando em Ciência da Computação na UVV (6º período)
 - 🔬 Bolsista de Iniciação Científica
 - 💡 Foco em aplicar conhecimento acadêmico em aplicações reais
-
-
-<div align="center">
-  <img height="220" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=brenno1206&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=radical" alt="Brenno github stats" />
-  <img height="220" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=brenno1206&layout=compact&hide_border=true&bg_color=0d1117&theme=dracula" />
-</div>
 
 
 # Tecnologias & Ferramentas
